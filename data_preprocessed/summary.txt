@@ -1,0 +1,16 @@
+Qualitative Analysis:
+  Class across dataset :least frequent = Water, 2426 times 
+ most frequent = dirt, 4154 times
+Quanitative Analysis:
+For red pixels:
+Min Value = 0.0
+Max Value=1.0
+Median=0.5529412031173706
+For blue pixles:
+Min Value = 0.0
+Max Value=1.0
+Median=0.545098066329956
+For green pixels:
+Min Value = 0.0
+Max Value=1.0
+Median=0.5529412031173706
