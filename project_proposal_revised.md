@@ -1,4 +1,4 @@
-#### SER594: Project Revised Proposal
+## Project Revised Proposal
 #### Dirt and Water Detection for floor cleaning Robots  
 #### Manohar Akula
 #### 10/30/2022
